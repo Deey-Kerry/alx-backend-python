@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """async routine called wait_n that takes in 2 int arguments"""
-import asyncio
 from typing import List
+import asyncio
 wait_random = __import__('0-basic_async_syntax.py').wait_random
 
 
